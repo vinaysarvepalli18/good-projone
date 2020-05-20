@@ -1,6 +1,7 @@
 public class test1{
 
-publc static void main(String[] args){
+public static void main(String[] args){
 System.out.println("hello test");
+System.out.println("ramanajuma");
 }
 }
